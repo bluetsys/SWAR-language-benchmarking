@@ -1,0 +1,1 @@
+time ./bin/Release/net10.0/linux-x64/csharp ../../data/measurements.csv

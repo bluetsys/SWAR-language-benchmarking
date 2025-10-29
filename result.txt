@@ -1,0 +1,30 @@
+Run C...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 4479.49 ms
+=================================
+Run C++...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 4462.75 ms
+=================================
+Run C#...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 4693.61 ms
+=================================
+Run Go...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 4775.46 ms
+=================================
+Run Java...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 5446.00 ms
+=================================
+Run Rust...
+File size: 1549032381 bytes
+Line count: 100000000
+Time: 4838.07 ms
+=================================

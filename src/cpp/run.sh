@@ -1,0 +1,1 @@
+time ./main ../../data/measurements.csv

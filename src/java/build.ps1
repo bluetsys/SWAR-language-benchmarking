@@ -1,0 +1,1 @@
+javac main.java -encoding UTF8

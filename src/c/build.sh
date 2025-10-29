@@ -1,0 +1,1 @@
+gcc -O3 -march=native -flto -ffast-math main.c -o main

@@ -1,0 +1,1 @@
+rustc -O -C target-cpu=native -C lto=fat -C codegen-units=1 main.rs -o main

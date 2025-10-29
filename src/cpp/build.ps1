@@ -1,0 +1,1 @@
+g++ -O3 -march=native -flto -ffast-math main.cpp -o main.exe

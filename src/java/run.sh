@@ -1,0 +1,1 @@
+time java main ../../data/measurements.csv
